@@ -27,7 +27,7 @@ class Todo extends Component {
     render() {
         return (
             <div className="todo-app">
-                <h1>To-Do List</h1>
+                <h1>To-Do List Management</h1>
                 <div className="input-container">
                     <input className='task'
                         type="text"
